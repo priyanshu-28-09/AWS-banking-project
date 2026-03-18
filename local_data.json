@@ -7,6 +7,15 @@
       "Role": "customer",
       "CreatedAt": "2026-01-30T06:34:09.757781",
       "UpdatedAt": "2026-01-30T06:34:09.757781"
+    },
+    "0680428c-b31a-4bb7-a99c-a0e6857d0d4b": {
+      "UserID": "0680428c-b31a-4bb7-a99c-a0e6857d0d4b",
+      "Name": "Men's Cotton Shirt",
+      "Email": "priyanshuvishwakarma3133@gmail.com",
+      "PasswordHash": "$2b$12$bYz50RlCMFJUwrrYbQLCU.acrconxEQRm7LvoEkup1GQa9qL4g1Iu",
+      "Role": "manager",
+      "CreatedAt": "2026-03-18T15:54:53.504736",
+      "UpdatedAt": "2026-03-18T15:54:53.504736"
     }
   },
   "accounts": {
@@ -18,6 +27,15 @@
       "Status": "ACTIVE",
       "CreatedAt": "2026-01-30T06:34:09.769954",
       "UpdatedAt": "2026-01-30T06:35:53.044484"
+    },
+    "85acf925-5553-4c76-8d0d-922f7176a780": {
+      "AccountID": "85acf925-5553-4c76-8d0d-922f7176a780",
+      "UserID": "0680428c-b31a-4bb7-a99c-a0e6857d0d4b",
+      "Balance": 1000.0,
+      "AccountType": "SAVINGS",
+      "Status": "ACTIVE",
+      "CreatedAt": "2026-03-18T15:54:53.507065",
+      "UpdatedAt": "2026-03-18T15:54:53.507065"
     }
   },
   "transactions": {
